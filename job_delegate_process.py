@@ -3,7 +3,7 @@ import subprocess
 import os
 from os import path
 
-from ChiaPlotMaster import utils, config
+import utils, config
 
 
 class PlotterJobDelegate:
